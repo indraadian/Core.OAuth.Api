@@ -1,4 +1,4 @@
-namespace Core.OAuth.Api
+namespace Core.OAuth.Api.Models
 {
     public class WeatherForecast
     {
